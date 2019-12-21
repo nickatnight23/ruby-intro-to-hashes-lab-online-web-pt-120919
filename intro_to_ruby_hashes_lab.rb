@@ -1,8 +1,9 @@
 def new_hash
-
+company= {}
 end
 
 def actor
+  actor { "name" => "Dwayne The Rock Johnson" }
 
 end
 
